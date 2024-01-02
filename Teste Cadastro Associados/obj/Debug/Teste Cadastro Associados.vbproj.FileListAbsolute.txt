@@ -1,0 +1,17 @@
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.vbproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste_Cadastro_Associados.Resources.resources
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.vbproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.vbproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\Teste Cadastro Associados.exe.config
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\Teste Cadastro Associados.exe
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\Teste Cadastro Associados.pdb
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\Teste Cadastro Associados.xml
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\EntityFramework.dll
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\EntityFramework.xml
+C:\Users\gusta\source\repos\Teste Cadastro Associados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.vbproj.CopyComplete
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.exe
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.xml
+C:\Users\gusta\source\repos\Teste Cadastro Associados\obj\Debug\Teste Cadastro Associados.pdb
